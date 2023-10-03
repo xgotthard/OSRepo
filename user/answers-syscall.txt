@@ -1,0 +1,4 @@
+1. usertrap()
+2. 7, reprezentuje SYS_exec
+3. lw a3, 0(zero)
+4. a3
